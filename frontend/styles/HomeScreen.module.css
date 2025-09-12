@@ -1,0 +1,100 @@
+.text__banner {
+  color: var(--clr-white);
+  gap:20px;
+  display: flex;
+  flex-direction: column;
+}
+.line__banner{
+  width: 95px;
+  background-color: var(--clr-orange);
+  height: 2px;
+  margin-left: -60px;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 10px;
+}
+.dot{
+  width: 8px;
+  height: 8px;
+  background-color: var(--clr-orange);
+  border-radius: 100px;
+  margin-bottom: 15px;
+}
+.button {
+  width: 140;
+  height: 40;
+  font-size: var(--size-base);
+  color: var(--clr-white);
+}
+.skill_box {
+  height: 400;
+  background-color: var(--clr-gray);
+  margin-left: -60px;
+  margin-right: -60px;
+  justify-content: center;
+  display: flex;
+}
+.skill__box__sub {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  margin-left: 60px;
+  margin-right: 60px;
+  flex-direction: column;
+  
+}
+.skill__list {
+  align-items: center;
+  flex-wrap: wrap;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-align: center;
+}
+.text__skills {
+  font-size: var(--size-xl);
+  color: var(--clr-text-gray);
+  font-weight: bold;
+  white-space: pre-wrap;
+}
+.line{
+  height: 60px;
+  width: 0%;
+  border-width: 1px;
+  border-color: var(--clr-orange);
+}
+.circle{
+  width: 5px;
+  height: 5px;
+  border-radius: 100px;
+  background-color: var(--clr-orange);
+}
+.text__service{
+  color: var(--clr-white);
+  font-size: var(--size-base);
+  font-weight: bold;
+
+}
+
+.text__h{
+  color: var(--clr-white);
+  font-weight: bold;
+}
+.text__subtitle{
+  color: var(--clr-text-gray);
+  font-size: var(--size-base);
+  white-space: pre-line;
+}
+.text__symbol{
+  color: var(--clr-orange);
+}
+
+.border{
+  border-color: red;
+  border-width: 2px;
+display: flex;
+align-items: flex-end;
+
+}

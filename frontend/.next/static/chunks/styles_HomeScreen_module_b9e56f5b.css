@@ -1,0 +1,112 @@
+/* [project]/styles/HomeScreen.module.css [app-client] (css) */
+.HomeScreen-module__95fQ5q__text__banner {
+  color: var(--clr-white);
+  flex-direction: column;
+  gap: 20px;
+  display: flex;
+}
+
+.HomeScreen-module__95fQ5q__line__banner {
+  background-color: var(--clr-orange);
+  justify-content: flex-end;
+  width: 95px;
+  height: 2px;
+  margin-bottom: 10px;
+  margin-left: -60px;
+  display: flex;
+}
+
+.HomeScreen-module__95fQ5q__dot {
+  background-color: var(--clr-orange);
+  border-radius: 100px;
+  width: 8px;
+  height: 8px;
+  margin-bottom: 15px;
+}
+
+.HomeScreen-module__95fQ5q__button {
+  width: 140px;
+  height: 40px;
+  font-size: var(--size-base);
+  color: var(--clr-white);
+}
+
+.HomeScreen-module__95fQ5q__skill_box {
+  background-color: var(--clr-gray);
+  justify-content: center;
+  height: 400px;
+  margin-left: -60px;
+  margin-right: -60px;
+  display: flex;
+}
+
+.HomeScreen-module__95fQ5q__skill__box__sub {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  margin-left: 60px;
+  margin-right: 60px;
+  display: flex;
+}
+
+.HomeScreen-module__95fQ5q__skill__list {
+  text-align: center;
+  flex-flow: column wrap;
+  align-items: center;
+  gap: 10px;
+  display: flex;
+}
+
+.HomeScreen-module__95fQ5q__text__skills {
+  font-size: var(--size-xl);
+  color: var(--clr-text-gray);
+  white-space: pre-wrap;
+  font-weight: bold;
+}
+
+.HomeScreen-module__95fQ5q__line {
+  border-width: 1px;
+  border-color: var(--clr-orange);
+  width: 0%;
+  height: 60px;
+}
+
+.HomeScreen-module__95fQ5q__circle {
+  background-color: var(--clr-orange);
+  border-radius: 100px;
+  width: 5px;
+  height: 5px;
+}
+
+.HomeScreen-module__95fQ5q__text__service {
+  color: var(--clr-white);
+  font-size: var(--size-base);
+  font-weight: bold;
+}
+
+.HomeScreen-module__95fQ5q__text__h {
+  color: var(--clr-white);
+  font-weight: bold;
+}
+
+.HomeScreen-module__95fQ5q__text__subtitle {
+  color: var(--clr-text-gray);
+  font-size: var(--size-base);
+  white-space: pre-line;
+}
+
+.HomeScreen-module__95fQ5q__text__symbol {
+  color: var(--clr-orange);
+}
+
+.HomeScreen-module__95fQ5q__border {
+  border-width: 2px;
+  border-color: red;
+  align-items: flex-end;
+  display: flex;
+}
+
+
+/*# sourceMappingURL=styles_HomeScreen_module_b9e56f5b.css.map*/
